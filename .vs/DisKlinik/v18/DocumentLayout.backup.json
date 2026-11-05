@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|c:\\users\\muhammed sefa\\desktop\\projects\\disklinigiotomasyonu\\disklinik\\tedaviler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\tedaviler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\disklinik\\randevular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\randevular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\disklinik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\disklinik\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\disklinik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\disklinik\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\disklinik\\hastalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\hastalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\disklinik\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B0E0A53-3B7B-4C57-9C61-2D5B1E7A9F10}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Randevular.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Randevular.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Randevular.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Randevular.cs",
+              "RelativeToolTip": "DisKlinik\\Randevular.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T21:04:26.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tedaviler.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Tedaviler.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Tedaviler.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Tedaviler.cs",
+              "RelativeToolTip": "DisKlinik\\Tedaviler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:13:46.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Program.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Program.cs",
+              "RelativeToolTip": "DisKlinik\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:10:11.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tedavi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Tedavi.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Tedavi.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Tedavi.cs [Design]",
+              "RelativeToolTip": "DisKlinik\\Tedavi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:05:46.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Form1.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Form1.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Form1.cs [Design]",
+              "RelativeToolTip": "DisKlinik\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:02:25.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Hasta.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Hasta.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Hasta.cs",
+              "RelativeToolTip": "DisKlinik\\Hasta.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:14:48.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hastalar.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Hastalar.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Hastalar.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Hastalar.cs",
+              "RelativeToolTip": "DisKlinik\\Hastalar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:14:38.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hasta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Hasta.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Hasta.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DisKlinigiOtomasyonu\\DisKlinik\\Hasta.cs [Design]",
+              "RelativeToolTip": "DisKlinik\\Hasta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:43:55.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\bin\Debug\DisKlinik.exe.config
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\bin\Debug\DisKlinik.exe
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\bin\Debug\DisKlinik.pdb
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\bin\Debug\Guna.UI2.dll
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.csproj.AssemblyReference.cache
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.Form1.resources
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.csproj.GenerateResource.cache
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.csproj.Up2Date
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.exe
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.pdb
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.Anasayfa.resources
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.Hasta.resources
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.Properties.Resources.resources
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.Randevu.resources
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.Receteler.resources
+C:\Users\Muhammed Sefa\Desktop\projects\DisKlinigiOtomasyonu\DisKlinik\obj\Debug\DisKlinik.Tedavi.resources
